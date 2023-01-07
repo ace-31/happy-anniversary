@@ -1,0 +1,37 @@
+body {
+   background-color: #0aa7eb;
+  font-size: 30px;
+  color: azure;
+  text-align: center;
+} 
+
+.right{
+   align-content:space-around center;
+   background-repeat: no-repeat; 
+   color: whitesmoke;
+   margin: 20px;
+}  
+.some{
+   background-color: rgb(98, 163, 221);
+   margin: 20px;
+   width: 600px;
+   height: 800px;
+   display: flex;
+   align-items: center;
+   justify-content: center
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
